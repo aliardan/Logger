@@ -1,0 +1,15 @@
+20.03.2021 22:11:42 (INFO): Info
+20.03.2021 22:11:42 (INFO): Info with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:11:42 (INFO): InfoFormat fisrt parameter, second parameter
+20.03.2021 22:11:56 (INFO): Info
+20.03.2021 22:11:56 (INFO): Info with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:11:56 (INFO): InfoFormat fisrt parameter, second parameter
+20.03.2021 22:11:59 (INFO): Info
+20.03.2021 22:11:59 (INFO): Info with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:11:59 (INFO): InfoFormat fisrt parameter, second parameter
+20.03.2021 22:14:05 (INFO): Info
+20.03.2021 22:14:05 (INFO): Info with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:14:05 (INFO): InfoFormat fisrt parameter, second parameter
+20.03.2021 22:21:28 (INFO): Info
+20.03.2021 22:21:28 (INFO): Info with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:21:28 (INFO): InfoFormat fisrt parameter, second parameter

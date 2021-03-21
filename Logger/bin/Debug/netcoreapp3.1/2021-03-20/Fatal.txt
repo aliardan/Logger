@@ -1,0 +1,30 @@
+20.03.2021 19:16:54 (INFO): Fatal error
+20.03.2021 19:16:57 (INFO): Fatal error
+20.03.2021 19:19:31 (INFO): Fatal error
+20.03.2021 19:19:31 (INFO): Fatal error
+20.03.2021 19:19:31 (INFO): Fatal error with exSystem.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 19:19:34 (INFO): Fatal error
+20.03.2021 19:19:34 (INFO): Fatal error
+20.03.2021 19:19:34 (INFO): Fatal error with exSystem.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 19:32:06 (FATAL): Fatal error
+20.03.2021 19:32:06 (FATAL): Fatal error
+20.03.2021 19:32:06 (FATAL): Fatal error with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 19:50:52 (FATAL): Fatal error
+20.03.2021 19:50:52 (FATAL): Fatal error
+20.03.2021 19:50:52 (FATAL): Fatal error with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 19:51:47 (FATAL): Fatal error
+20.03.2021 19:51:47 (FATAL): Fatal error
+20.03.2021 19:51:47 (FATAL): Fatal error with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 21:20:21 (FATAL): Fatal error
+20.03.2021 21:20:21 (FATAL): Fatal error
+20.03.2021 21:20:21 (FATAL): Fatal error with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:11:42 (FATAL): Fatal error
+20.03.2021 22:11:42 (FATAL): Fatal error with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:11:56 (FATAL): Fatal error
+20.03.2021 22:11:56 (FATAL): Fatal error with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:11:59 (FATAL): Fatal error
+20.03.2021 22:11:59 (FATAL): Fatal error with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:14:05 (FATAL): Fatal error
+20.03.2021 22:14:05 (FATAL): Fatal error with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:21:28 (FATAL): Fatal error
+20.03.2021 22:21:28 (FATAL): Fatal error with ex System.Exception: Exception of type 'System.Exception' was thrown.

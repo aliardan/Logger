@@ -1,0 +1,19 @@
+20.03.2021 19:32:06 (ERROR): Error error
+20.03.2021 19:50:52 (ERROR): Error
+20.03.2021 19:51:47 (ERROR): Error
+20.03.2021 21:20:21 (ERROR): Error
+20.03.2021 22:11:42 (ERROR): Error
+20.03.2021 22:11:42 (ERROR): Error with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:11:42 (ERROR): System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:11:56 (ERROR): Error
+20.03.2021 22:11:56 (ERROR): Error with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:11:56 (ERROR): System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:11:59 (ERROR): Error
+20.03.2021 22:11:59 (ERROR): Error with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:11:59 (ERROR): System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:14:05 (ERROR): Error
+20.03.2021 22:14:05 (ERROR): Error with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:14:05 (ERROR): System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:21:28 (ERROR): Error
+20.03.2021 22:21:28 (ERROR): Error with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:21:28 (ERROR): System.Exception: Exception of type 'System.Exception' was thrown.

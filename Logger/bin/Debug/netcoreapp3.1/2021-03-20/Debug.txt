@@ -1,0 +1,18 @@
+20.03.2021 19:50:52 (DEBUG): DebugFormat username
+20.03.2021 19:51:47 (DEBUG): DebugFormat fisrt parameter, second parameter
+20.03.2021 21:20:21 (DEBUG): DebugFormat fisrt parameter, second parameter
+20.03.2021 22:11:42 (DEBUG): Debug
+20.03.2021 22:11:42 (DEBUG): Debug with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:11:42 (DEBUG): DebugFormat fisrt parameter, second parameter
+20.03.2021 22:11:56 (DEBUG): Debug
+20.03.2021 22:11:56 (DEBUG): Debug with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:11:56 (DEBUG): DebugFormat fisrt parameter, second parameter
+20.03.2021 22:11:59 (DEBUG): Debug
+20.03.2021 22:11:59 (DEBUG): Debug with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:11:59 (DEBUG): DebugFormat fisrt parameter, second parameter
+20.03.2021 22:14:05 (DEBUG): Debug
+20.03.2021 22:14:05 (DEBUG): Debug with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:14:05 (DEBUG): DebugFormat fisrt parameter, second parameter
+20.03.2021 22:21:28 (DEBUG): Debug
+20.03.2021 22:21:28 (DEBUG): Debug with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:21:28 (DEBUG): DebugFormat fisrt parameter, second parameter

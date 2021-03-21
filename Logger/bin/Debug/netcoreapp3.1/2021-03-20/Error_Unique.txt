@@ -1,0 +1,5 @@
+20.03.2021 22:11:42 (ERROR_UNIQUE): ErrorUnique with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:11:56 (ERROR_UNIQUE): ErrorUnique with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:11:59 (ERROR_UNIQUE): ErrorUnique with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:14:05 (ERROR_UNIQUE): Error Unique with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:21:28 (ERROR_UNIQUE): Error Unique with ex System.Exception: Exception of type 'System.Exception' was thrown.

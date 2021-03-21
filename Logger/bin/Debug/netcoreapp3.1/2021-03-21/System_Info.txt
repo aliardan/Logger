@@ -1,0 +1,14 @@
+21.03.2021 17:40:47 (SYSTEM_INFO): 1,1 property,2,2 property
+21.03.2021 17:44:26 (SYSTEM_INFO): SystemInfo with properties1,1 property,2,2 property
+21.03.2021 17:45:06 (SYSTEM_INFO): SystemInfo with properties 1,1 property,2,2 property
+21.03.2021 18:06:30 (SYSTEM_INFO): SystemInfo with properties 1,1 property,2,2 property
+21.03.2021 18:06:34 (SYSTEM_INFO): SystemInfo with properties 1,1 property,2,2 property
+21.03.2021 18:16:38 (SYSTEM_INFO): SystemInfo with properties 1,1 property,2,2 property
+21.03.2021 18:18:40 (SYSTEM_INFO): SystemInfo with properties 1,1 property,2,2 property
+21.03.2021 18:18:44 (SYSTEM_INFO): SystemInfo with properties 1,1 property,2,2 property
+21.03.2021 18:19:22 (SYSTEM_INFO): SystemInfo with properties 1,1 property,2,2 property
+21.03.2021 18:19:32 (SYSTEM_INFO): SystemInfo with properties 1,1 property,2,2 property
+21.03.2021 18:19:35 (SYSTEM_INFO): SystemInfo with properties 1,1 property,2,2 property
+21.03.2021 18:34:04 (SYSTEM_INFO): SystemInfo with properties 1,1st property,2,2nd property
+21.03.2021 18:34:51 (SYSTEM_INFO): System Info with properties 1,1st property,2,2nd property
+21.03.2021 18:35:20 (SYSTEM_INFO): System Info with properties 1,1st property,2,2nd property

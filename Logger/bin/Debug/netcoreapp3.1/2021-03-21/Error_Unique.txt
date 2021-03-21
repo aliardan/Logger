@@ -1,0 +1,17 @@
+21.03.2021 17:40:47 (ERROR_UNIQUE): Error Unique with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 17:44:26 (ERROR_UNIQUE): Error Unique with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 17:45:06 (ERROR_UNIQUE): Error Unique with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 17:54:15 (ERROR_UNIQUE): Error Unique with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 17:58:41 (ERROR_UNIQUE): Error Unique with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 18:06:20 (ERROR_UNIQUE): Error Unique with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 18:06:33 (ERROR_UNIQUE): Error Unique with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 18:13:43 (ERROR_UNIQUE): Error Unique with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 18:15:03 (ERROR_UNIQUE): Error Unique with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 18:18:38 (ERROR_UNIQUE): Error Unique with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 18:18:42 (ERROR_UNIQUE): Error Unique with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 18:19:22 (ERROR_UNIQUE): Error Unique with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 18:19:32 (ERROR_UNIQUE): Error Unique with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 18:19:35 (ERROR_UNIQUE): Error Unique with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 18:34:04 (ERROR_UNIQUE): Error Unique with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 18:34:51 (ERROR_UNIQUE): Error Unique with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 18:35:20 (ERROR_UNIQUE): Error Unique with ex System.Exception: Exception of type 'System.Exception' was thrown.

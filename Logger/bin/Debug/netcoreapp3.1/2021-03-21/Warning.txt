@@ -1,0 +1,30 @@
+21.03.2021 17:40:47 (WARNING): Warning
+21.03.2021 17:40:47 (WARNING): Warning with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 17:44:26 (WARNING): Warning
+21.03.2021 17:44:26 (WARNING): Warning with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 17:45:06 (WARNING): Warning
+21.03.2021 17:45:06 (WARNING): Warning with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 17:58:57 (WARNING): Warning
+21.03.2021 17:58:58 (WARNING): Warning with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 18:06:25 (WARNING): Warning
+21.03.2021 18:06:25 (WARNING): Warning with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 18:06:33 (WARNING): Warning
+21.03.2021 18:06:33 (WARNING): Warning with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 18:15:44 (WARNING): Warning
+21.03.2021 18:15:44 (WARNING): Warning with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 18:18:39 (WARNING): Warning
+21.03.2021 18:18:39 (WARNING): Warning with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 18:18:43 (WARNING): Warning
+21.03.2021 18:18:43 (WARNING): Warning with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 18:19:22 (WARNING): Warning
+21.03.2021 18:19:22 (WARNING): Warning with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 18:19:32 (WARNING): Warning
+21.03.2021 18:19:32 (WARNING): Warning with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 18:19:35 (WARNING): Warning
+21.03.2021 18:19:35 (WARNING): Warning with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 18:34:04 (WARNING): Warning
+21.03.2021 18:34:04 (WARNING): Warning with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 18:34:51 (WARNING): Warning
+21.03.2021 18:34:51 (WARNING): Warning with ex System.Exception: Exception of type 'System.Exception' was thrown.
+21.03.2021 18:35:20 (WARNING): Warning
+21.03.2021 18:35:20 (WARNING): Warning with ex System.Exception: Exception of type 'System.Exception' was thrown.

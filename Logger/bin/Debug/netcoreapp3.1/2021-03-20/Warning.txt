@@ -1,0 +1,10 @@
+20.03.2021 22:11:42 (WARNING): Warning
+20.03.2021 22:11:42 (WARNING): Warning with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:11:56 (WARNING): Warning
+20.03.2021 22:11:56 (WARNING): Warning with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:11:59 (WARNING): Warning
+20.03.2021 22:11:59 (WARNING): Warning with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:14:05 (WARNING): Warning
+20.03.2021 22:14:05 (WARNING): Warning with ex System.Exception: Exception of type 'System.Exception' was thrown.
+20.03.2021 22:21:28 (WARNING): Warning
+20.03.2021 22:21:28 (WARNING): Warning with ex System.Exception: Exception of type 'System.Exception' was thrown.
