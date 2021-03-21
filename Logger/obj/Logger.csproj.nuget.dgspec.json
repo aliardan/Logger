@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\Bars\\Logger\\Logger\\Logger\\Logger.csproj": {}
+    "C:\\repos\\Bars\\Logger\\Logger\\Logger.csproj": {}
   },
   "projects": {
-    "C:\\repos\\Bars\\Logger\\Logger\\Logger\\Logger.csproj": {
+    "C:\\repos\\Bars\\Logger\\Logger\\Logger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\Bars\\Logger\\Logger\\Logger\\Logger.csproj",
+        "projectUniqueName": "C:\\repos\\Bars\\Logger\\Logger\\Logger.csproj",
         "projectName": "Logger",
-        "projectPath": "C:\\repos\\Bars\\Logger\\Logger\\Logger\\Logger.csproj",
+        "projectPath": "C:\\repos\\Bars\\Logger\\Logger\\Logger.csproj",
         "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\Bars\\Logger\\Logger\\Logger\\obj\\",
+        "outputPath": "C:\\repos\\Bars\\Logger\\Logger\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
