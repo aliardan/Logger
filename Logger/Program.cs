@@ -10,6 +10,7 @@ namespace Logger
         {
             Log logger = new Log(Directory.GetCurrentDirectory());
             var ex = new Exception();
+
             Dictionary<object, object> dictionary = new Dictionary<object, object>();
             dictionary.Add(1, "1st property");
             dictionary.Add(2, "2nd property");
