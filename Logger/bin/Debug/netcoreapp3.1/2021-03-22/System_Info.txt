@@ -1,0 +1,1 @@
+22.03.2021 01:17:35 (SYSTEM_INFO): System Info with properties 1,1st property,2,2nd property

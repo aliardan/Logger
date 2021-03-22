@@ -1,0 +1,3 @@
+22.03.2021 01:17:35 (INFO): Info
+22.03.2021 01:17:35 (INFO): Info with ex System.Exception: Exception of type 'System.Exception' was thrown.
+22.03.2021 01:17:35 (INFO): InfoFormat fisrt parameter, second parameter

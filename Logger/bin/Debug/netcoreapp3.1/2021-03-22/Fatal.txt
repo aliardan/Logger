@@ -1,0 +1,2 @@
+22.03.2021 01:17:35 (FATAL): Fatal error
+22.03.2021 01:17:35 (FATAL): Fatal error with ex System.Exception: Exception of type 'System.Exception' was thrown.
