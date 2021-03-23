@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8ffLJb6oU2MK7i+OZbC0TfqqlOMO/NnwoAuQZXXR7Zh4xtA41TR3mVRhzHNDhgxX8a4TBeh3MBqZcUaG4xid4w==",
+  "dgSpecHash": "r9rg6gZCF367Z4YYbEd0lp630SE96Oyhe6nttUvXPSWapNDn08Aq6vb18glrA1CwUcUPw+UiHn+xqeZbS+ywsQ==",
   "success": true,
-  "projectFilePath": "C:\\repos\\Bars\\Logger\\Logger\\Logger.csproj",
+  "projectFilePath": "C:\\repos\\Logger\\Logger\\Logger.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
