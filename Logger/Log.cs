@@ -182,7 +182,8 @@ namespace Logger
         /// <param name="properties">свойства</param>
         public void SystemInfo(string message, Dictionary<object, object> properties = null)
         {
-            var str = properties.Select(x => x.Key.ToString() + "," + x.Value.ToString());
+            List<string> strings = new List<string>() {};
+            var str = (properties?.Select(x => x.Key.ToString() + "," + x.Value.ToString())) ?? strings;
             var str2 = String.Join(",", str);
             CommonLog(message + " " + str2, "System_Info", "SYSTEM_INFO");
         }

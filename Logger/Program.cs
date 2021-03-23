@@ -38,6 +38,7 @@ namespace Logger
             logger.DebugFormat("DebugFormat {0}, {1}", "fisrt parameter", "second parameter");
 
             logger.SystemInfo("System Info with properties", dictionary);
+            logger.SystemInfo("System Info with properties", null);
         }
     }
 }
